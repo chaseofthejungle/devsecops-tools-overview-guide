@@ -129,4 +129,6 @@
   
 ## 11. <a name="supplemental">Supplemental Resources</a>
 
-(TODO)
+* *[AWS Article: What is DevSecOps?](https://aws.amazon.com/what-is/devsecops/)*
+* *[IBM Article: What is DevSecOps?](https://www.ibm.com/think/topics/devsecops)*
+* *[Red Hat Article: What is DevSecOps?](https://www.redhat.com/en/topics/devops/what-is-devsecops)*
