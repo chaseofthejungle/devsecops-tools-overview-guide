@@ -1,76 +1,129 @@
-# DevSecOps Overview Guide
+# DevSecOps Tools Overview Guide
+
+(TODO: Descriptions of tool categories and individual technologies.)
 
 #### Table of Contents
 
-1. [Collaboration & Communication](#collab)
-2. [Vulnerability Management](#vulman)
-3. [Security Checks & Scans](#secscan)
-4. [Continuous Monitoring](#conmon)
-5. [Continuous Integration/Continuous Deployment (CI/CD)](#cicd)
-6. [Infrastructure as Code (IaC)](#iac)
-7. [Container Security](#consec)
-8. [Key Management](#keyman)
-9. [Threat Modeling](#thrmod)
-10. [QA Integration](#qaint)
+1. [Static Application Security Testing (SAST)](#sast)
+2. [Dynamic Application Security Testing (DAST)](#dast)
+3. [Software Composition Analysis (SCA)](#sca)
+4. [Secret Management](#secman)
+5. [Secret Scanning](#secscan)
+6. [Binary/Image Scanning](#binimg)
+7. [Artifact Scanning](#artscan)
+8. [Environment and IaC (Infrastructure as Code) Security](#enviac)
+9. [Vulnerability Management](#vulman)
+10. [Compliance as Code (CaC)](#compcode)
 11. [Supplemental Resources](#supplemental)
 
-## 1. <a name="collab">Collaboration & Communication</a>
+## 1. <a name="sast">Static Application Security Testing (SAST)</a>
   
-(TODO)
+*Examples of tools include:*
+
+* **Bandit**
+* **Brakeman**
+* **ESLint**
+* **GitLab SAST**
+* **SonarQube**
 
 <hr />
   
-## 2. <a name="vulman">Vulnerability Management</a>
-  
-(TODO)
+## 2. <a name="dast">Dynamic Application Security Testing (DAST)</a>
+
+*Examples of tools include:*
+
+* **Arachni**
+* **Nikto**
+* **SQLMap**
+* **ZAProxy**
 
 <hr />
   
-## 3. <a name="secscan">Security Checks & Scans</a>
+## 3. <a name="sca">Software Composition Analysis (SCA)</a>
   
-(TODO)
+*Examples of tools include:*
+
+* **OWASP Dependency-Check**
+* **Snyk**
+* **Trivy**
 
 <hr />
   
-## 4. <a name="conmon">Continuous Monitoring</a>
+## 4. <a name="secman">Secret Management</a>
   
-(TODO)
+*Examples of tools include:*
+
+* **Bitwarden**
+* **Conjur**
+* **HashiCorp Vault**
+* **Keywhiz**
 
 <hr />
   
-## 5. <a name="cicd">Continuous Integration/Continuous Deployment (CI/CD)</a>
+## 5. <a name="secscan">Secret Scanning</a>
   
-(TODO)
+*Examples of tools include:*
+
+* **Detect Secrets**
+* **GitLeaks**
+* **TruffleHog**
 
 <hr />
   
-## 6. <a name="iac">Infrastructure as Code (IaC)</a>
+## 6. <a name="binimg">Binary/Image Scanning</a>
   
-(TODO)
+*Examples of tools include:*
+
+* **Anchore Engine**
+* **Clair**
+* **Grype**
+* **Trivy**
 
 <hr />
   
-## 7. <a name="consec">Container Security</a>
+## 7. <a name="artscan">Artifact Scanning</a>
   
-(TODO)
+*Examples of tools include:*
+
+* **Anchore Engine**
+* **Clair**
+* **Dependency-Track**
+* **Grype**
+* **OWASP Dependency-Check**
+* **Trivy**
 
 <hr />
   
-## 8. <a name="keyman">Key Management</a>
+## 8. <a name="enviac">Environment and IaC (Infrastructure as Code) Security</a>
   
-(TODO)
+*Examples of tools include:*
+
+* **Checkov**
+* **Kubescape**
+* **Terrascan**
+* **tfsc**
 
 <hr />
   
-## 9. <a name="thrmod">Threat Modeling</a>
+## 9. <a name="vulman">Vulnerability Management</a>
 
-(TODO)
+*Examples of tools include:*
   
+* **Clair**
+* **Nessus Essentials**
+* **OpenVAS**
+
 <hr />
   
-## 10. <a name="qaint">QA Integration</a>
+## 10. <a name="compcode">Compliance as Code (CaC)</a>
   
-(TODO)
+*Examples of tools include:*
+
+* **Ansible**
+* **InSpec**
+* **Lynis**
+* **OpenScap**
+* **OSSECs**
   
 <hr />
   
