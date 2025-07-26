@@ -1,6 +1,6 @@
 # DevSecOps Tools Overview Guide
 
-(TODO: Descriptions of tool categories and individual technologies.)
+(TODO: Finish descriptions of tool categories and individual technologies.)
 
 #### Table of Contents
 
@@ -17,7 +17,9 @@
 11. [Supplemental Resources](#supplemental)
 
 ## 1. <a name="sast">Static Application Security Testing (SAST)</a>
-  
+
+*Static Application Security Testing (SAST)* tools can prevent security issues by detecting vulnerabilities early. They perform automated scanning, evaluate source code, and assure that standards and compliance are enforced. This can keep the costs of systems remediation low.
+
 *Examples of tools include:*
 
 * **Bandit**
