@@ -44,7 +44,9 @@
 <hr />
   
 ## 3. <a name="sca">Software Composition Analysis (SCA)</a>
-  
+
+*Software Composition Analysis (SCA)* tools help keep apps secure and compliant by analyzing open-source dependencies for dependency management, licensure, policy enforcement, risk assessment, security alert/notification, and other vulnerabilities. They scan third party components, package manifests, and software libraries in doing so.
+
 *Examples of open-source tools include:*
 
 * **OWASP Dependency-Check**
