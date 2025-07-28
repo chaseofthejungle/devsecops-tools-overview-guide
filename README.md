@@ -20,7 +20,7 @@
 
 *Static Application Security Testing (SAST)* tools can prevent security issues by detecting vulnerabilities early. They perform automated scanning, evaluate source code, and assure that standards and compliance are enforced. This can keep the costs of systems remediation low.
 
-*Examples of tools include:*
+*Examples of open-source tools include:*
 
 * **Bandit**
 * **Brakeman**
@@ -32,18 +32,20 @@
   
 ## 2. <a name="dast">Dynamic Application Security Testing (DAST)</a>
 
-*Examples of tools include:*
+*DAST (Dynamic Application Security Testing)* tools evaluate for external vulnerabilities (e.g., secure data exposures, SQL injection) in presently running apps (in realtime), reducing the possibilities of data breaches and exploits by threat actors. They conduct black box tests, evaluate environments for misconfigurations, missing configurations, and present threats, and evaluate business logic.
+
+*Examples of open-source tools include:*
 
 * **Arachni**
 * **Nikto**
 * **SQLMap**
-* **ZAProxy**
+* **ZAProxy (OWASP Zed Attack Proxy)**
 
 <hr />
   
 ## 3. <a name="sca">Software Composition Analysis (SCA)</a>
   
-*Examples of tools include:*
+*Examples of open-source tools include:*
 
 * **OWASP Dependency-Check**
 * **Snyk**
@@ -53,7 +55,7 @@
   
 ## 4. <a name="secman">Secret Management</a>
   
-*Examples of tools include:*
+*Examples of open-source tools include:*
 
 * **Bitwarden**
 * **Conjur**
@@ -64,7 +66,7 @@
   
 ## 5. <a name="secscan">Secret Scanning</a>
   
-*Examples of tools include:*
+*Examples of open-source tools include:*
 
 * **Detect Secrets**
 * **GitLeaks**
@@ -74,7 +76,7 @@
   
 ## 6. <a name="binimg">Binary/Image Scanning</a>
   
-*Examples of tools include:*
+*Examples of open-source tools include:*
 
 * **Anchore Engine**
 * **Clair**
@@ -85,7 +87,7 @@
   
 ## 7. <a name="artscan">Artifact Scanning</a>
   
-*Examples of tools include:*
+*Examples of open-source tools include:*
 
 * **Anchore Engine**
 * **Clair**
@@ -98,7 +100,7 @@
   
 ## 8. <a name="enviac">Environment and IaC (Infrastructure as Code) Security</a>
   
-*Examples of tools include:*
+*Examples of open-source tools include:*
 
 * **Checkov**
 * **Kubescape**
@@ -109,7 +111,7 @@
   
 ## 9. <a name="vulman">Vulnerability Management</a>
 
-*Examples of tools include:*
+*Examples of open-source tools include:*
   
 * **Clair**
 * **Nessus Essentials**
@@ -119,7 +121,7 @@
   
 ## 10. <a name="compcode">Compliance as Code (CaC)</a>
   
-*Examples of tools include:*
+*Examples of open-source tools include:*
 
 * **Ansible**
 * **InSpec**
