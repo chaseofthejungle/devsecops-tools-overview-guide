@@ -56,7 +56,9 @@
 <hr />
   
 ## 4. <a name="secman">Secret Management</a>
-  
+
+*Secret management* tools are essential for protecting management of, authorization for access control to, and storage of, sensitive information and credentials for apps, users, and services. Examples of such data/credentials include: Personally Identifiable Information (PII), passwords, certificates, and API and encryption keys. Mechanisms such as dynamic secret generation, automated secret rotation, and Command Line Interface (CLI) access control can assist secret management tools in their efficacy.
+
 *Examples of open-source tools include:*
 
 * **Bitwarden**
