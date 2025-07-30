@@ -69,7 +69,9 @@
 <hr />
   
 ## 5. <a name="secscan">Secret Scanning</a>
-  
+
+*Secret scanning* tools continuously search for and recognize secrets, such as API and encryption keys, certificates, passwords, and tokens, that are present within config files, repositories, and program source code. These secrets are commonly accidentally hard coded and made publicly available by data stewards and organizations.
+
 *Examples of open-source tools include:*
 
 * **Detect Secrets**
