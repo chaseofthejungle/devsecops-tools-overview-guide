@@ -81,7 +81,9 @@
 <hr />
   
 ## 6. <a name="binimg">Binary/Image Scanning</a>
-  
+
+*Binary and image scanner tools* evaluate com[compiled binaries, container images, and containerized applications for faulty configurations and compliances, malware, and any other vulnerabilities.
+
 *Examples of open-source tools include:*
 
 * **Anchore Engine**
