@@ -1,7 +1,5 @@
 # DevSecOps Tools Overview Guide
 
-(TODO: Finish descriptions of tool categories and individual technologies.)
-
 #### Table of Contents
 
 1. [Static Application Security Testing (SAST)](#sast)
@@ -10,7 +8,7 @@
 4. [Secret Management](#secman)
 5. [Secret Scanning](#secscan)
 6. [Binary/Image Scanning](#binimg)
-7. [Artifact Scanning](#artscan)
+7. [Software Artifact Scanning](#artscan)
 8. [Environment and IaC (Infrastructure as Code) Security](#enviac)
 9. [Vulnerability Management](#vulman)
 10. [Compliance as Code (CaC)](#compcode)
@@ -93,8 +91,10 @@
 
 <hr />
   
-## 7. <a name="artscan">Artifact Scanning</a>
-  
+## 7. <a name="artscan">Software Artifact Scanning</a>
+
+*Software artifact scanner tools* integrate with software artifact repositories to perform extensive scanning and monitoring for licensing and compliance issues, quality assurance, and security-related vulnerabilities.
+
 *Examples of open-source tools include:*
 
 * **Anchore Engine**
