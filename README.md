@@ -9,7 +9,7 @@
 5. [Secret Scanning](#secscan)
 6. [Binary/Image Scanning](#binimg)
 7. [Software Artifact Scanning](#artscan)
-8. [Environment and IaC (Infrastructure as Code) Security](#enviac)
+8. [Environment and Infrastructure-as-Code (IaC) Security](#enviac)
 9. [Vulnerability Management](#vulman)
 10. [Compliance as Code (CaC)](#compcode)
 11. [Supplemental Resources](#supplemental)
@@ -80,7 +80,7 @@
   
 ## 6. <a name="binimg">Binary/Image Scanning</a>
 
-*Binary and image scanner tools* evaluate com[compiled binaries, container images, and containerized applications for faulty configurations and compliances, malware, and any other vulnerabilities.
+*Binary and image scanner tools* evaluate compiled binaries, container images, and containerized applications for faulty configurations and compliances, malware, and any other vulnerabilities.
 
 *Examples of open-source tools include:*
 
@@ -106,8 +106,10 @@
 
 <hr />
   
-## 8. <a name="enviac">Environment and IaC (Infrastructure as Code) Security</a>
-  
+## 8. <a name="enviac">Environment and Infrastructure-as-Code (IaC) Security</a>
+
+*Environment and Infrastructure-as-Code (IaC) security tools* perform automated/autonomous security checks, monitoring the environments and infrastructures surrounding deployed apps and assuring resilence and compliance with organizational security policies and external, industry-wide regulatory standards.
+
 *Examples of open-source tools include:*
 
 * **Checkov**
