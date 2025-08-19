@@ -1,5 +1,7 @@
 # DevSecOps Tools Overview Guide
 
+**Description/Overview:** *DevSecOps* is the active integration of DevOps workflows and security tools, based on process changes. Similarly, *AppSec Posture Management (ASPM)* concerns evaluations of security signals across the Systems Development Life Cycle (SDLC) to handle vulnerabilities, apply security controls, and increase transparency. The implementation of systems-integrated and automated DevSecOps tools strengthens the security posture of systems/apps, providing protection against cyber attacks.
+
 #### Table of Contents
 
 1. [Why Use Open-Source Security Tools?](#whyuse)
